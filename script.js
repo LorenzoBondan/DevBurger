@@ -138,6 +138,7 @@ checkoutBtn.addEventListener("click", function(){
             style: {
               background: "#ef4444",
             }}).showToast();
+            
         return;
     }
 
